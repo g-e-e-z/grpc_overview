@@ -2,7 +2,7 @@
 ## Motivation
 1. Communication between different languages
     1. Microservices may not be the same language
-    2.API Contracts
+    2. API Contracts
 
 2. Communication should be efficient | Fast & Lightweight
     1. Huge amount of information between services
